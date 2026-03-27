@@ -10,8 +10,8 @@ import Header2 from "@/components/headers/Header2";
 import Collections from "@/components/homes/home-1/Collections";
 
 export const metadata = {
-  title: "Rafaela Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
-  description: "A Rafaela Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
+  title: "Gaby Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
+  description: "A Gaby Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
   viewport: "width=device-width, initial-scale=1.0",
   themeColor: "#FFFFFF",
   icons: {
@@ -19,10 +19,10 @@ export const metadata = {
   },
   openGraph: {
     locale: "pt-BR",
-    title: "Rafaela Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
-    siteName: "Rafaela Flores",
+    title: "Gaby Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
+    siteName: "Gaby Flores",
     type: "website",
-    description: "A Rafaela Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
+    description: "A Gaby Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
     url: "https://www.Rafaellaflores.shop/",
     images: [
       {
@@ -33,8 +33,8 @@ export const metadata = {
   alternates: {
     canonical: "https://www.Rafaellaflores.shop/",
   },
-  keywords: ["Rafaela Flores", "Rafaela Flores", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
-  authors: [{ name: "Rafaela Flores", url: "https://www.Rafaellaflores.shop/" }],
+  keywords: ["Gaby Flores", "Gaby Flores", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
+  authors: [{ name: "Gaby Flores", url: "https://www.Rafaellaflores.shop/" }],
 };
 export default function Home() {
   return (
