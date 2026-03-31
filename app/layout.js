@@ -125,7 +125,7 @@ export default function RootLayout({ children }) {
         {/* Gaby Flores Manager Script */}
         <Script
           strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=AW-10976608085"
+          src="https://www.googletagmanager.com/gtag/js?id=AW-10276612078"
         />
         <Script id="google-analytics" strategy="afterInteractive">
           {`
